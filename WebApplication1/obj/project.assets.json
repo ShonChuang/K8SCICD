@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Temp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\Projects\\K8SCICD\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\Projects\\Temp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\Projects\\K8SCICD\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\tpp05969\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Temp\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Projects\\K8SCICD\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

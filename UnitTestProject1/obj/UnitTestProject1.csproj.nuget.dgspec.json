@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Temp\\WebApplication1\\UnitTestProject1\\UnitTestProject1.csproj": {}
+    "D:\\Projects\\K8SCICD\\UnitTestProject1\\UnitTestProject1.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Temp\\WebApplication1\\UnitTestProject1\\UnitTestProject1.csproj": {
+    "D:\\Projects\\K8SCICD\\UnitTestProject1\\UnitTestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Temp\\WebApplication1\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectUniqueName": "D:\\Projects\\K8SCICD\\UnitTestProject1\\UnitTestProject1.csproj",
         "projectName": "UnitTestProject1",
-        "projectPath": "D:\\Projects\\Temp\\WebApplication1\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectPath": "D:\\Projects\\K8SCICD\\UnitTestProject1\\UnitTestProject1.csproj",
         "packagesPath": "C:\\Users\\tpp05969\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Temp\\WebApplication1\\UnitTestProject1\\obj\\",
+        "outputPath": "D:\\Projects\\K8SCICD\\UnitTestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Projects\\Temp\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
-                "projectPath": "D:\\Projects\\Temp\\WebApplication1\\WebApplication1\\WebApplication1.csproj"
+              "D:\\Projects\\K8SCICD\\WebApplication1\\WebApplication1.csproj": {
+                "projectPath": "D:\\Projects\\K8SCICD\\WebApplication1\\WebApplication1.csproj"
               }
             }
           }
@@ -75,9 +75,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -86,14 +83,14 @@
         }
       }
     },
-    "D:\\Projects\\Temp\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\Projects\\K8SCICD\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Temp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\Projects\\K8SCICD\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\Projects\\Temp\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\Projects\\K8SCICD\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\tpp05969\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Temp\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "D:\\Projects\\K8SCICD\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
