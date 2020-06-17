@@ -2,9 +2,9 @@ pipeline {
    agent any
 
    stages {
-      stage('Hello') {
+      stage('單元測試') {
          steps {
-            echo "$GIT_BRANCH"
+           powershell label: '', script: 'dotnet test -v n'
          }
       }
    }
